@@ -75,7 +75,7 @@ python main_h36m_3d.py --kernel_size 10 --dct_n 20 --input_n_run 140 --output_n 
 
 ## References
 
-Adeyemi, A., Sinclair, D., Babis, K., Samantha, H., Mitchell, K, [Neft-Net: N-Window Extended Frequency Transformer for Rhythmic Motion Prediction](https://doi.org/10.1016/j.cag.2025.104244). In Elsevier Journal of Computers and Graphics Special Issue on Computer Graphics and Visual Computing (CGVC) 2025.
+Ademola, A., Sinclair, D., Babis, K., Samantha, H., Mitchell, K, [NeFT-Net: N-Window Extended Frequency Transformer for Rhythmic Motion Prediction](https://doi.org/10.1016/j.cag.2025.104244). In Elsevier Journal of Computers and Graphics Special Issue on Computer Graphics and Visual Computing (CGVC) 2025.
 
 
 Ademola, A., Sinclair, D., Koniaris, B., Hannah, S., Mitchell, K. [DeFT-Net: Dual-Window Extended Frequency Transformer for Rhythmic Motion Prediction](https://diglib.eg.org/server/api/core/bitstreams/c5743b51-cdb3-402e-aed8-5788f3a45760/content). In Computer Graphics and Visual Computing (CGVC) 2024
